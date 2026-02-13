@@ -105,19 +105,19 @@ Live feeds from the city perimeter indicating network failure points:
 #### 🔴 Critical Threat Zones
 | **Security Precinct** | **Industrial Sector** | **Bio-Hazard Field** |
 | :---: | :---: | :---: |
-| ![Police](assets/locations/sector-security-precinct.jpg) | ![Factory](assets/locations/sector-industrial-plant.jpg) | ![Mushrooms](assets/locations/hazard-bio-contamination.jpg) |
+| ![Police](asserts/locations/sector-security-precinct.jpg) | ![Factory](asserts/locations/sector-industrial-plant.jpg) | ![Mushrooms](asserts/locations/hazard-bio-contamination.jpg) |
 | *Status: COMPROMISED* | *Status: TOXIC LEAK* | *Status: SPORE BLOOM* |
 
 #### 🟠 Commercial & Supply Lines
 | **Commercial Atrium** | **Supply Depot** | **Admin HQ** |
 | :---: | :---: | :---: |
-| ![Mall](assets/locations/zone-commercial-atrium.jpg) | ![Store](assets/locations/zone-supply-depot.jpg) | ![Office](assets/locations/sector-admin-hq.jpg) |
+| ![Mall](asserts/locations/zone-commercial-atrium.jpg) | ![Store](asserts/locations/zone-supply-depot.jpg) | ![Office](asserts/locations/sector-admin-hq.jpg) |
 | *Signal: INTERMITTENT* | *Signal: OFFLINE* | *Signal: UNSTABLE* |
 
 #### 🟡 Public Services & Perimeter
 | **Education Facility** | **Municipal Archives** | **Coastal Breach** |
 | :---: | :---: | :---: |
-| ![School](assets/locations/zone-education-facility.jpg) | ![Library](assets/locations/zone-municipal-archives.jpg) | ![Beach](assets/locations/perimeter-coastal-breach.jpg) |
+| ![School](asserts/locations/zone-education-facility.jpg) | ![Library](asserts/locations/zone-municipal-archives.jpg) | ![Beach](asserts/locations/perimeter-coastal-breach.jpg) |
 | *Sensors: ACTIVE* | *Sensors: DAMAGED* | *Sensors: LOST* |
 
 </details>
