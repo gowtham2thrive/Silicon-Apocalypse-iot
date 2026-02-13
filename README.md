@@ -95,33 +95,33 @@ This project is backed by published academic research and technical certificatio
 This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` source file is provided strictly for educational and portfolio demonstration purposes. This software and its associated file formats (`.pkt`) are subject to Cisco Systems' End User License Agreement. Users must possess a valid Cisco Networking Academy account or appropriate license to execute the simulation.
 
 ---
-
 <details>
-<summary><b>🛰️ SATELLITE FEED: Sector Surveillance (Click to Expand)</b></summary>
+<summary><b>🛰️ SATELLITE FEED: Disaster Sectors (Click to Expand)</b></summary>
 
-### ⚠️ Infrastructure Status Report
-Live feeds from the city perimeter indicating network failure points:
+### ⚠️ Critical Infrastructure Status
+Surveillance drones have identified the following network dead-zones:
 
-#### 🔴 Critical Threat Zones
-| **Security Precinct** | **Industrial Sector** | **Bio-Hazard Field** |
+| **Security Precinct** | **Industrial Plant** | **Bio-Hazard Zone** |
 | :---: | :---: | :---: |
-| ![Police](asserts/locations/sector-security-precinct.jpg) | ![Factory](asserts/locations/sector-industrial-plant.jpg) | ![Mushrooms](asserts/locations/hazard-bio-contamination.jpg) |
-| *Status: COMPROMISED* | *Status: TOXIC LEAK* | *Status: SPORE BLOOM* |
+| ![Police](assets/locations/sector-security-precinct.jpg) | ![Factory](assets/locations/sector-industrial-plant.jpg) | ![Biohazard](assets/locations/hazard-bio-contamination.jpg) |
+| *Status: COMPROMISED* | *Status: HIGH VOLTAGE* | *Status: TOXIC SPORES* |
 
-#### 🟠 Commercial & Supply Lines
-| **Commercial Atrium** | **Supply Depot** | **Admin HQ** |
+| **Commercial Complex** | **Retail Logistics** | **Corporate Admin** |
 | :---: | :---: | :---: |
-| ![Mall](asserts/locations/zone-commercial-atrium.jpg) | ![Store](asserts/locations/zone-supply-depot.jpg) | ![Office](asserts/locations/sector-admin-hq.jpg) |
-| *Signal: INTERMITTENT* | *Signal: OFFLINE* | *Signal: UNSTABLE* |
+| ![Mall](assets/locations/zone-commercial-complex.jpg) | ![Store](assets/locations/sector-retail-logistics.jpg) | ![Office](assets/locations/zone-corporate-admin.jpg) |
+| *Signal: INTERMITTENT* | *Signal: LOOTED* | *Signal: ENCRYPTED* |
 
-#### 🟡 Public Services & Perimeter
-| **Education Facility** | **Municipal Archives** | **Coastal Breach** |
+| **Municipal Archives** | **Education Facility** | **Recreation Park** |
 | :---: | :---: | :---: |
-| ![School](asserts/locations/zone-education-facility.jpg) | ![Library](asserts/locations/zone-municipal-archives.jpg) | ![Beach](asserts/locations/perimeter-coastal-breach.jpg) |
-| *Sensors: ACTIVE* | *Sensors: DAMAGED* | *Sensors: LOST* |
+| ![Library](assets/locations/sector-municipal-archives.jpg) | ![School](assets/locations/sector-education-facility.jpg) | ![Park](assets/locations/zone-recreation-park.jpg) |
+| *Signal: WEAK* | *Signal: OFFLINE* | *Signal: UNSTABLE* |
+
+| **Stagnant Reservoir** | **Coastal Perimeter** |
+| :---: | :---: |
+| ![Pool](assets/locations/zone-stagnant-reservoir.jpg) | ![Beach](assets/locations/perimeter-coastal-breach.jpg) |
+| *Status: CONTAMINATED* | *Status: PERIMETER BREACH* |
 
 </details>
-
 ---
 
 ## 🎓 Acknowledgments
