@@ -2,7 +2,7 @@
 
 ![Silicon Apocalypse Banner](asserts/banner.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License.txt)
 [![Simulation](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/courses/packet-tracer)
 [![Status](https://img.shields.io/badge/Status-Published%20Research-green)](docs/published-paper.pdf)
 
