@@ -1,10 +1,6 @@
 # Silicon-Apocalypse-iot
 
-<<<<<<< HEAD
-![Silicon Apocalypse Banner](asserts/banner.png)
-=======
 ![Silicon Apocalypse Banner](assets/banner.png)
->>>>>>> 42d4c49 (Update README documentation and replace visual assets)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License.txt)
 [![Simulation](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/courses/packet-tracer)
@@ -64,11 +60,7 @@ The core security algorithm operates on a simple state machine:
 
 | Logical Topology | Physical City Map |
 | :---: | :---: |
-<<<<<<< HEAD
-| ![Network Topology](asserts/network-topology.jpg) | ![City Map](asserts/city-map.jpg) |
-=======
 | ![Network Topology](assets/network-topology.jpg) | ![City Map](assets/city-map.jpg) |
->>>>>>> 42d4c49 (Update README documentation and replace visual assets)
 | *Fig 1: Network Logical View* | *Fig 2: Infection Map Simulation* |
 
 ---
@@ -103,6 +95,7 @@ This project is backed by published academic research and technical certificatio
 This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` source file is provided strictly for educational and portfolio demonstration purposes. This software and its associated file formats (`.pkt`) are subject to Cisco Systems' End User License Agreement. Users must possess a valid Cisco Networking Academy account or appropriate license to execute the simulation.
 
 ---
+
 <details>
 <summary><b>🛰️ SATELLITE FEED: Disaster Sectors (Click to Expand)</b></summary>
 
@@ -111,11 +104,7 @@ This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` s
 
 | **Security Precinct** | **Industrial Plant** | **Education Facility** |
 | :---: | :---: | :---: |
-<<<<<<< HEAD
-| ![Police](asserts/locations/sector-security-precinct.jpg) | ![Factory](asserts/locations/sector-industrial-plant.jpg) | ![School](asserts/locations/sector-education-facility.jpg) |
-=======
 | ![Police](assets/locations/sector-security-precinct.jpg) | ![Factory](assets/locations/sector-industrial-plant.jpg) | ![School](assets/locations/sector-education-facility.jpg) |
->>>>>>> 42d4c49 (Update README documentation and replace visual assets)
 | *Status: OVERRUN* | *Status: HIGH VOLTAGE* | *Status: EVACUATED* |
 
 ### ☣️ Sector B: Biological Hazard Zones
@@ -123,11 +112,7 @@ This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` s
 
 | **Bio-Contamination** | **Stagnant Reservoir** | **Recreation Park** |
 | :---: | :---: | :---: |
-<<<<<<< HEAD
-| ![Biohazard](asserts/locations/hazard-bio-contamination.jpg) | ![Pool](asserts/locations/zone-stagnant-reservoir.jpg) | ![Park](asserts/locations/zone-recreation-park.jpg) |
-=======
 | ![Biohazard](assets/locations/hazard-bio-contamination.jpg) | ![Pool](assets/locations/zone-stagnant-reservoir.jpg) | ![Park](assets/locations/zone-recreation-park.jpg) |
->>>>>>> 42d4c49 (Update README documentation and replace visual assets)
 | *Threat: SPORE CLOUDS* | *Threat: WATERBORNE VIRUS* | *Threat: EXTREME* |
 
 ### 🏢 Sector C: Commercial & Logistics
@@ -135,25 +120,18 @@ This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` s
 
 | **Commercial Complex** | **Supply Depot** | **Corporate Admin** |
 | :---: | :---: | :---: |
-<<<<<<< HEAD
-| ![Mall](asserts/locations/zone-commercial-complex.jpg) | ![Store](asserts/locations/zone-supply-depot.jpg) | ![Office](asserts/locations/zone-corporate-admin.jpg) |
-=======
 | ![Mall](assets/locations/zone-commercial-complex.jpg) | ![Store](assets/locations/zone-supply-depot.jpg) | ![Office](assets/locations/zone-corporate-admin.jpg) |
->>>>>>> 42d4c49 (Update README documentation and replace visual assets)
 | *Signal: INTERMITTENT* | *Status: SCAVENGED* | *Signal: LOST* |
 
 ### 🌊 Sector D: Perimeter & Archives
 
 | **Coastal Breach** | **Municipal Archives** |
 | :---: | :---: |
-<<<<<<< HEAD
-| ![Beach](asserts/locations/perimeter-coastal-breach.jpg) | ![Library](asserts/locations/sector-municipal-archives.jpg) |
-=======
-| ![Beach](assets/locations/perimeter-coastal-breach.jpg) | ![Library](asserts/locations/sector-municipal-archives.jpg) |
->>>>>>> 42d4c49 (Update README documentation and replace visual assets)
+| ![Beach](assets/locations/perimeter-coastal-breach.jpg) | ![Library](assets/locations/sector-municipal-archives.jpg) |
 | *Status: PERIMETER FAILED* | *Status: RECORDS INTACT* |
 
 </details>
+
 ---
 
 ## 🎓 Acknowledgments
