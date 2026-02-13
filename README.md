@@ -2,7 +2,7 @@
 
 ![Silicon Apocalypse Banner](asserts/banner.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License)
 [![Simulation](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/courses/packet-tracer)
 [![Status](https://img.shields.io/badge/Status-Published%20Research-green)](docs/published-paper.pdf)
 
@@ -94,12 +94,10 @@ This project is backed by published academic research and technical certificatio
 ## ⚠️ Disclaimer
 This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` source file is provided strictly for educational and portfolio demonstration purposes. This software and its associated file formats (`.pkt`) are subject to Cisco Systems' End User License Agreement. Users must possess a valid Cisco Networking Academy account or appropriate license to execute the simulation.
 
----
+## 🎓 Acknowledgments
 
-## 👤 Author
+I extend my sincere gratitude to my mentors for their invaluable guidance and support throughout this research:
 
-**Gowtham Kondapalli** *B.Tech Computer Science | Network Engineering Enthusiast*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gowtham2thrive)
-
-*Special thanks to mentors S. Phani Varaprasad, B. Padmavathi, and S. Hemalatha for their guidance on this research.*
+* **S. Phani Varaprasad** (Head of Department, ECE)
+* **B. Padmavathi** (Head of Department, CME)
+* **S. Hemalatha** (Class Coordinator)
