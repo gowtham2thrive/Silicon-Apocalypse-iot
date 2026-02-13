@@ -60,7 +60,7 @@ The core security algorithm operates on a simple state machine:
 
 | Logical Topology | Physical City Map |
 | :---: | :---: |
-| ![Network Topology](asserts/network-topology.png) | ![City Map](asserts/city-map.png) |
+| ![Network Topology](asserts/network-topology.jpg) | ![City Map](asserts/city-map.jpg) |
 | *Fig 1: Network Logical View* | *Fig 2: Infection Map Simulation* |
 
 ---
