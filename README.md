@@ -1,6 +1,6 @@
 # Silicon-Apocalypse-iot
 
-![Silicon Apocalypse Banner](assets/banner)
+![Silicon Apocalypse Banner](assets/banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Simulation](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/courses/packet-tracer)
