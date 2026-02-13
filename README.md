@@ -1,31 +1,105 @@
-# Silicon Apocalypse: IoT Smart Home Simulation #
+# Silicon-Apocalypse-iot
 
-A Cisco Packet Tracer simulation of a self-sufficient, "zombie-proof" smart home designed for disaster scenarios. This project, completed as part of a Diploma in Computer Engineering, models an IoT-based system for survival, focusing on renewable energy, resource management, and automated defense.
+![Silicon Apocalypse Banner](assets/banner.png)
 
-File Link 🔗:- https://drive.google.com/drive/folders/1-FlHpfeJzYEbvmu6vqP0lhD5DOZcVKwc
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Simulation](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/courses/packet-tracer)
+[![Status](https://img.shields.io/badge/Status-Published%20Research-green)](docs/published-paper.pdf)
 
-## Technical Overview ##
- * Simulation Tool: The entire system is designed and simulated using Cisco Packet Tracer.
- * Network Topology: IoT devices are connected in a star topology to a central home gateway.
- * Connectivity: The internal network runs on a 2.4 GHz Wi-Fi connection. A central switch is used to manage communication between connected devices efficiently.
- * Core Components:
-   * Power: Renewable energy is supplied by solar panels and batteries, managed by a smart grid.
-   * Security: Includes motion sensors, security cameras, electrified fences, and motion-activated traps.
-   * Control: The system is monitored and managed remotely via a smartphone app.
- * Automation: The system uses automation scripts to manage energy consumption, environmental controls, and security protocols. For example, a "Code Red" condition is triggered when motion is detected, activating all defenses
+> **IoT-Based Disaster Resilience Simulation** > *A smart grid and bio-secure perimeter simulation designed for extreme disaster scenarios.*
 
-## How to Use ##
-1. ​Download Cisco Packet Tracer: You must have Cisco Packet Tracer (version 8.0 or newer recommended) installed to open this simulation. You can download it from the Cisco Networking Academy website.
+---
 
-2. Create an Account: You will need a free Cisco Networking Academy account to log in and use the software.
+## 📄 Abstract
+**Silicon Apocalypse** is a network engineering research project that models a self-sufficient, automated smart home environment capable of sustaining life during high-risk disaster scenarios.
 
-3. Install: Follow the installation instructions for your operating system (Windows, macOS, or Linux).
+Published in the **Mukt Shabd Journal (April 2025)**, this project demonstrates the application of **IoT protocols**, **renewable energy management**, and **automated security logic** using Cisco Packet Tracer's MCU capabilities. The system is designed to operate off-grid, managing resource consumption and perimeter defense without human intervention.
 
-​4. Open Project:
+---
 
-​* Download the .pkt file from this repository.
-​Open Cisco Packet Tracer.
+## 🚀 Key Features
 
-*​ Log in with your Networking Academy account.
+### 1. Smart Energy Grid (Off-Grid Capability)
+* **Solar Array Management:** Integrated solar panels with battery storage to ensure 24/7 power availability independent of the main grid.
+* **IoT Power Monitoring:** Real-time energy consumption tracking via a centralized smartphone dashboard.
 
-​* Go to File > Open and navigate to the downloaded .pkt file.
+### 2. Autonomous Perimeter Defense
+* **"Code Red" Logic:** The system uses conditional logic to detect threats.
+    * *Input:* Motion Sensors (Perimeter)
+    * *Output:* Activating Electrified Fences, Locking Main Gates, and Triggering Sirens.
+* **Surveillance Network:** A star-topology network of webcams monitoring key ingress points (Entrance, Garage, Fence).
+
+### 3. Resilient Network Architecture
+* **Topology:** Star Topology centered around a Home Gateway and Central Switch to minimize latency.
+* **Connectivity:** Devices operate on a **2.4 GHz Wi-Fi** standard (WPA2-PSK) to ensure secure, wireless command propagation across the facility.
+
+---
+
+## 🛠️ Technical Implementation
+
+The simulation relies on Cisco Packet Tracer's **IoT Registration Server** and **MCU/SBC Programming**.
+
+| Device Type | Function | Connectivity |
+| :--- | :--- | :--- |
+| **Home Gateway** | Central IoT Server & DHCP | Ethernet/Wi-Fi |
+| **MCU (Microcontroller)** | Runs Python/Blockly automation scripts | IoT Custom Cable |
+| **Motion Sensors** | Triggers "Code Red" state | Digital Input |
+| **Actuators** | Sirens, Door Locks, Electric Fence | Digital Output |
+
+### Automation Logic Example
+The core security algorithm operates on a simple state machine:
+
+| State | Trigger | System Response |
+| :--- | :--- | :--- |
+| **SAFE** | `Motion == False` | Unlock Gates, Disarm Traps, Power Down High-Energy Cams |
+| **THREAT** | `Motion == True` | **Lock All Gates**, **Electrify Fence**, **Arm Traps**, **Alert Admin** |
+
+---
+
+## 📸 Simulation Visuals
+
+| Logical Topology | Physical City Map |
+| :---: | :---: |
+| ![Network Topology](assets/network-topology.png) | ![City Map](assets/city-map.png) |
+| *Fig 1: Network Logical View* | *Fig 2: Infection Map Simulation* |
+
+---
+
+## 📜 Certifications & Research
+
+This project is backed by published academic research and technical certification.
+
+* **Research Paper:** [📄 Read "Silicon Apocalypse Using Cisco Packet Tracer"](docs/published-paper.pdf)  
+    *Published in Mukt Shabd Journal, Volume XIV, Issue IV, April 2025.*
+* **Technical Qualification:** [📜 View Cisco Packet Tracer Certificate](docs/cisco-certificate.pdf)
+
+---
+
+## 💻 How to Run
+
+1.  **Prerequisites:** Install **Cisco Packet Tracer** (Version 7.0 or higher required for IoT support).
+2.  **Download:** Clone this repository.
+    ```bash
+    git clone [https://github.com/gowtham2thrive/Silicon-Apocalypse-iot.git](https://github.com/gowtham2thrive/Silicon-Apocalypse-iot.git)
+    ```
+    > **Note:** The source file (`src/silicon_apocalypse_simulation.pkt`) is approx **97 MB**. Ensure you have a stable connection when cloning.
+3.  **Launch:** Open the `.pkt` file in Cisco Packet Tracer.
+4.  **Interact:**
+    * Click on the **Smartphone** device in the workspace.
+    * Open the **IoT Monitor** app to view the dashboard.
+    * **Simulate a Threat:** Hold `Alt` and click a Motion Sensor to trigger the "Code Red" security protocol.
+
+---
+
+## ⚠️ Disclaimer
+This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` source file is provided strictly for educational and portfolio demonstration purposes. This software and its associated file formats (`.pkt`) are subject to Cisco Systems' End User License Agreement. Users must possess a valid Cisco Networking Academy account or appropriate license to execute the simulation.
+
+---
+
+## 👤 Author
+
+**Gowtham Kondapalli** *B.Tech Computer Science | Network Engineering Enthusiast*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/gowtham2thrive)
+
+*Special thanks to mentors S. Phani Varaprasad, B. Padmavathi, and S. Hemalatha for their guidance on this research.*
