@@ -98,28 +98,36 @@ This project simulation was designed using **Cisco Packet Tracer**. The `.pkt` s
 <details>
 <summary><b>🛰️ SATELLITE FEED: Disaster Sectors (Click to Expand)</b></summary>
 
-### ⚠️ Critical Infrastructure Status
-Surveillance drones have identified the following network dead-zones:
+### ⚠️ Sector A: Critical Infrastructure
+*Status: Compromised / High Strategic Value*
 
-| **Security Precinct** | **Industrial Plant** | **Bio-Hazard Zone** |
+| **Security Precinct** | **Industrial Plant** | **Education Facility** |
 | :---: | :---: | :---: |
-| ![Police](assets/locations/sector-security-precinct.jpg) | ![Factory](assets/locations/sector-industrial-plant.jpg) | ![Biohazard](assets/locations/hazard-bio-contamination.jpg) |
-| *Status: COMPROMISED* | *Status: HIGH VOLTAGE* | *Status: TOXIC SPORES* |
+| ![Police](asserts/locations/sector-security-precinct.jpg) | ![Factory](asserts/locations/sector-industrial-plant.jpg) | ![School](asserts/locations/sector-education-facility.jpg) |
+| *Status: OVERRUN* | *Status: HIGH VOLTAGE* | *Status: EVACUATED* |
 
-| **Commercial Complex** | **Retail Logistics** | **Corporate Admin** |
+### ☣️ Sector B: Biological Hazard Zones
+*Status: Avoid Contact / Toxic Spores Detected*
+
+| **Bio-Contamination** | **Stagnant Reservoir** | **Recreation Park** |
 | :---: | :---: | :---: |
-| ![Mall](assets/locations/zone-commercial-complex.jpg) | ![Store](assets/locations/sector-retail-logistics.jpg) | ![Office](assets/locations/zone-corporate-admin.jpg) |
-| *Signal: INTERMITTENT* | *Signal: LOOTED* | *Signal: ENCRYPTED* |
+| ![Biohazard](asserts/locations/hazard-bio-contamination.jpg) | ![Pool](asserts/locations/zone-stagnant-reservoir.jpg) | ![Park](asserts/locations/zone-recreation-park.jpg) |
+| *Threat: SPORE CLOUDS* | *Threat: WATERBORNE VIRUS* | *Threat: EXTREME* |
 
-| **Municipal Archives** | **Education Facility** | **Recreation Park** |
+### 🏢 Sector C: Commercial & Logistics
+*Status: Looted / Structural Instability*
+
+| **Commercial Complex** | **Supply Depot** | **Corporate Admin** |
 | :---: | :---: | :---: |
-| ![Library](assets/locations/sector-municipal-archives.jpg) | ![School](assets/locations/sector-education-facility.jpg) | ![Park](assets/locations/zone-recreation-park.jpg) |
-| *Signal: WEAK* | *Signal: OFFLINE* | *Signal: UNSTABLE* |
+| ![Mall](asserts/locations/zone-commercial-complex.jpg) | ![Store](asserts/locations/zone-supply-depot.jpg) | ![Office](asserts/locations/zone-corporate-admin.jpg) |
+| *Signal: INTERMITTENT* | *Status: SCAVENGED* | *Signal: LOST* |
 
-| **Stagnant Reservoir** | **Coastal Perimeter** |
+### 🌊 Sector D: Perimeter & Archives
+
+| **Coastal Breach** | **Municipal Archives** |
 | :---: | :---: |
-| ![Pool](assets/locations/zone-stagnant-reservoir.jpg) | ![Beach](assets/locations/perimeter-coastal-breach.jpg) |
-| *Status: CONTAMINATED* | *Status: PERIMETER BREACH* |
+| ![Beach](asserts/locations/perimeter-coastal-breach.jpg) | ![Library](asserts/locations/sector-municipal-archives.jpg) |
+| *Status: PERIMETER FAILED* | *Status: RECORDS INTACT* |
 
 </details>
 ---
