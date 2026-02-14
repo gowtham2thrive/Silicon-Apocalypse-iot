@@ -1,4 +1,4 @@
-# Silicon-Apocalypse-iot
+# Silicon-Apocalypse | IoT-Based Disaster Resilience Simulation
 
 ![Silicon Apocalypse Banner](assets/banner.png)
 
@@ -6,7 +6,7 @@
 [![Simulation](https://img.shields.io/badge/Simulation-Cisco%20Packet%20Tracer-blue)](https://www.netacad.com/courses/packet-tracer)
 [![Status](https://img.shields.io/badge/Status-Published%20Research-green)](docs/published-paper.pdf)
 
-> **IoT-Based Disaster Resilience Simulation** > *A smart grid and bio-secure perimeter simulation designed for extreme disaster scenarios.*
+> *A smart grid and bio-secure perimeter simulation designed for extreme disaster scenarios.*
 
 ---
 
@@ -80,7 +80,7 @@ This project is backed by published academic research and technical certificatio
 1.  **Prerequisites:** Install **Cisco Packet Tracer** (Version 7.0 or higher required for IoT support).
 2.  **Download:** Clone this repository.
     ```bash
-    git clone [https://github.com/gowtham2thrive/Silicon-Apocalypse-iot.git](https://github.com/gowtham2thrive/Silicon-Apocalypse-iot.git)
+    git clone [https://github.com/gowtham2thrive/Silicon-Apocalypse.git](https://github.com/gowtham2thrive/Silicon-Apocalypse.git)
     ```
     > **Note:** The source file (`src/silicon_apocalypse_simulation.pkt`) is approx **97 MB**. Ensure you have a stable connection when cloning.
 3.  **Launch:** Open the `.pkt` file in Cisco Packet Tracer.
@@ -141,3 +141,4 @@ I extend my sincere gratitude to my mentors for their invaluable guidance and su
 * **S. Phani Varaprasad** (Head of Department, ECE)
 * **B. Padmavathi** (Head of Department, CME)
 * **S. Hemalatha** (Class Coordinator)
+
